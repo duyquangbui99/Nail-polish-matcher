@@ -1,35 +1,26 @@
-// components/ImagePickerComponent.js
 import React, { useState } from 'react';
 import { View, Button, Image, StyleSheet } from 'react-native';
-import * as ImagePicker from 'expo-image-picker';
+import { pickImageFromLibrary } from '../services/imageService';
 
 export default function ImagePickerComponent({ onImagePicked }) {
     const [image, setImage] = useState(null);
 
-    const pickImage = async () => {
-        // Ask for permission
-        const permissionResult = await ImagePicker.requestMediaLibraryPermissionsAsync();
-        if (!permissionResult.granted) {
-            alert("Permission to access camera roll is required!");
-            return;
-        }
-
-        // Launch picker
-        let result = await ImagePicker.launchImageLibraryAsync({
-            mediaTypes: [ImagePicker.MediaType.Image],
-            allowsEditing: true,
-            quality: 1,
-        });
-
-        if (!result.canceled) {
-            setImage(result.assets[0].uri);
-            onImagePicked && onImagePicked(result.assets[0].uri);
+    const handlePickImage = async () => {
+        try {
+            const uri = await pickImageFromLibrary();
+            if (uri) {
+                setImage(uri);
+                onImagePicked && onImagePicked(uri);
+            }
+        } catch (error) {
+            Alert.alert("Error", error.message);
         }
     };
 
+
     return (
         <View style={styles.container}>
-            <Button title="Upload a Photo" onPress={pickImage} />
+            <Button title="Upload a Photo" onPress={handlePickImage} />
             {image && <Image source={{ uri: image }} style={styles.image} />}
         </View>
     );
