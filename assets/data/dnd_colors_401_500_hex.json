@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Ferrari Red #430",
+    "brand": "DND",
+    "hex": "#eb1c26",
+    "product_link": "https://www.dndgel.com/products/ferrari-red-430"
+  },
+  {
+    "name": "Boston University Red #429",
+    "brand": "DND",
+    "hex": "#aa122a",
+    "product_link": "https://www.dndgel.com/products/boston-university-red-429"
+  },
+  {
+    "name": "Snow Flake #448",
+    "brand": "DND",
+    "hex": "##f7f7f7",
+    "product_link": "https://www.dndgel.com/products/snow-flake-448"
+  },
+  {
+    "name": "Black Licorice #447",
+    "brand": "DND",
+    "hex": "#07131f",
+    "product_link": "https://www.dndgel.com/products/black-licorice-447"
+  },
+  {
+    "name": "Baby Blue #436",
+    "brand": "DND",
+    "hex": "#52cae1",
+    "product_link": "https://www.dndgel.com/products/baby-blue-436"
+  },
+  {
+    "name": "French Tip #473",
+    "brand": "DND",
+    "hex": "#f7f7f7",
+    "product_link": "https://www.dndgel.com/products/french-tip-473"
+  },
+  {
+    "name": "Be My Valentine #499",
+    "brand": "DND",
+    "hex": "#fe5ba9",
+    "product_link": "https://www.dndgel.com/products/be-my-valentine-499"
+  },
+  {
+    "name": "Butternut Squash #418",
+    "brand": "DND",
+    "hex": "#87554d",
+    "product_link": "https://www.dndgel.com/products/butternut-squash-418"
+  },
+  {
+    "name": "Twinkle Little Star #443",
+    "brand": "DND",
+    "hex": "#e7eeec",
+    "product_link": "https://www.dndgel.com/products/twinkle-little-star-443"
+  },
+  {
+    "name": "Clear Pink #441",
+    "brand": "DND",
+    "hex": "#ead9e1",
+    "product_link": "https://www.dndgel.com/products/clear-pink-441"
+  },
+  {
+    "name": "Air Of Mint #427",
+    "brand": "DND",
+    "hex": "#64cdc1",
+    "product_link": "https://www.dndgel.com/products/air-of-mint-427"
+  },
+  {
+    "name": "Baby Girl #497",
+    "brand": "DND",
+    "hex": "#ffa2c9",
+    "product_link": "https://www.dndgel.com/products/baby-girl-497"
+  },
+  {
+    "name": "First Kiss #449",
+    "brand": "DND",
+    "hex": "#dfa1ba",
+    "product_link": "https://www.dndgel.com/products/first-kiss-449"
+  },
+  {
+    "name": "Bright Maroon #420",
+    "brand": "DND",
+    "hex": "#be036e",
+    "product_link": "https://www.dndgel.com/products/bright-maroon-420"
+  },
+  {
+    "name": "Blue De France #437",
+    "brand": "DND",
+    "hex": "#005ba9",
+    "product_link": "https://www.dndgel.com/products/blue-de-france-437"
+  },
+  {
+    "name": "Muted Berry #459",
+    "brand": "DND",
+    "hex": "#453349",
+    "product_link": "https://www.dndgel.com/products/muted-berry-459"
+  },
+  {
+    "name": "Short \"N\" Sweet #444",
+    "brand": "DND",
+    "hex": "#ceafb5",
+    "product_link": "https://www.dndgel.com/products/short-n-sweet-444"
+  },
+  {
+    "name": "Deep Mystery #460",
+    "brand": "DND",
+    "hex": "#2d3c47",
+    "product_link": "https://www.dndgel.com/products/deep-mystery-460"
+  },
+  {
+    "name": "Lemon Juice #424",
+    "brand": "DND",
+    "hex": "#e7fe00",
+    "product_link": "https://www.dndgel.com/products/lemon-juice-424"
+  },
+  {
+    "name": "Plum Passion #455",
+    "brand": "DND",
+    "hex": "#6a3060",
+    "product_link": "https://www.dndgel.com/products/plum-passion-455"
+  },
+  {
+    "name": "Raspberry #431",
+    "brand": "DND",
+    "hex": "#d02037",
+    "product_link": "https://www.dndgel.com/products/raspberry-431"
+  },
+  {
+    "name": "Redwood City #490",
+    "brand": "DND",
+    "hex": "#b85953",
+    "product_link": "https://www.dndgel.com/products/redwood-city-490"
+  },
+  {
+    "name": "Dark Scarlet #432",
+    "brand": "DND",
+    "hex": "#9c1237",
+    "product_link": "https://www.dndgel.com/products/dark-scarlet-432"
+  },
+  {
+    "name": "Cherry Berry #456",
+    "brand": "DND",
+    "hex": "#7d173c",
+    "product_link": "https://www.dndgel.com/products/cherry-berry-456"
+  },
+  {
+    "name": "Spiced Berry #478",
+    "brand": "DND",
+    "hex": "#430514",
+    "product_link": "https://www.dndgel.com/products/spiced-berry-478"
+  },
+  {
+    "name": "Plum Wine #453",
+    "brand": "DND",
+    "hex": "#5e4d5f",
+    "product_link": "https://www.dndgel.com/products/plum-wine-453"
+  },
+  {
+    "name": "Queen of Grape #479",
+    "brand": "DND",
+    "hex": "#2a011a",
+    "product_link": "https://www.dndgel.com/products/queen-of-grapes-479"
+  },
+  {
+    "name": "Antique Purple #489",
+    "brand": "DND",
+    "hex": "#987289",
+    "product_link": "https://www.dndgel.com/products/antique-purple-489"
+  },
+  {
+    "name": "Rosewood #428",
+    "brand": "DND",
+    "hex": "#3a2b4c",
+    "product_link": "https://www.dndgel.com/products/rosewood-428"
+  },
+  {
+    "name": "Charming Cherry #482",
+    "brand": "DND",
+    "hex": "#e7628e",
+    "product_link": "https://www.dndgel.com/products/charming-cherry-482"
+  },
+  {
+    "name": "Emerald Stone #471",
+    "brand": "DND",
+    "hex": "#245a65",
+    "product_link": "https://www.dndgel.com/products/emerald-stone-471"
+  },
+  {
+    "name": "Bellet Slipper #496",
+    "brand": "DND",
+    "hex": "#eda3c1",
+    "product_link": "https://www.dndgel.com/products/bellet-slipper-496"
+  },
+  {
+    "name": "Firework Star #402",
+    "brand": "DND",
+    "hex": "#b82221",
+    "product_link": "https://www.dndgel.com/products/firework-star-402"
+  },
+  {
+    "name": "Golden Sahara Star #401",
+    "brand": "DND",
+    "hex": "#9a795b",
+    "product_link": "https://www.dndgel.com/products/golden-sahara-star-401"
+  },
+  {
+    "name": "Striking Red #474",
+    "brand": "DND",
+    "hex": "#e3151d",
+    "product_link": "https://www.dndgel.com/products/striking-red-474"
+  },
+  {
+    "name": "Pool Party #433",
+    "brand": "DND",
+    "hex": "#005ba9",
+    "product_link": "https://www.dndgel.com/products/pool-party-433"
+  },
+  {
+    "name": "Fresh Eggplant #458",
+    "brand": "DND",
+    "hex": "#240f36",
+    "product_link": "https://www.dndgel.com/products/fresh-eggplant-458"
+  },
+  {
+    "name": "Terra Cotta #425",
+    "brand": "DND",
+    "hex": "#fe0000",
+    "product_link": "https://www.dndgel.com/products/terra-cotta-425"
+  },
+  {
+    "name": "Red Stone #477",
+    "brand": "DND",
+    "hex": "#650828",
+    "product_link": "https://www.dndgel.com/products/red-stone-477"
+  },
+  {
+    "name": "Melting Violet #445",
+    "brand": "DND",
+    "hex": "#8c666f",
+    "product_link": "https://www.dndgel.com/products/melting-violet-445"
+  },
+  {
+    "name": "Glitter For You #423",
+    "brand": "DND",
+    "hex": "#c4bea3",
+    "product_link": "https://www.dndgel.com/products/glitter-for-you-423"
+  },
+  {
+    "name": "Pinky Kinky #417",
+    "brand": "DND",
+    "hex": "#ea338f",
+    "product_link": "https://www.dndgel.com/products/pinky-kinky-417"
+  },
+  {
+    "name": "Season Beige #488",
+    "brand": "DND",
+    "hex": "#dbb0a7",
+    "product_link": "https://www.dndgel.com/products/season-beige-488"
+  },
+  {
+    "name": "Rose Petal Pink #421",
+    "brand": "DND",
+    "hex": "#ef8ab6",
+    "product_link": "https://www.dndgel.com/products/rose-petal-421"
+  },
+  {
+    "name": "Summer Hot Pink #414",
+    "brand": "DND",
+    "hex": "#fb314a",
+    "product_link": "https://www.dndgel.com/products/summer-hot-pink-414"
+  },
+  {
+    "name": "Woodlake #446",
+    "brand": "DND",
+    "hex": "#867768",
+    "product_link": "https://www.dndgel.com/products/woodlake-446"
+  },
+  {
+    "name": "Pastel Orange #426",
+    "brand": "DND",
+    "hex": "#ff4c32",
+    "product_link": "https://www.dndgel.com/products/pastel-orange-426"
+  },
+  {
+    "name": "Papaya Whip #440",
+    "brand": "DND",
+    "hex": "#e4baae",
+    "product_link": "https://www.dndgel.com/products/papaya-whip-440"
+  },
+  {
+    "name": "Pink Angel #483",
+    "brand": "DND",
+    "hex": "#f1bbd0",
+    "product_link": "https://www.dndgel.com/products/pink-angel-483"
+  },
+  {
+    "name": "Shooting Star #411",
+    "brand": "DND",
+    "hex": "#735961",
+    "product_link": "https://www.dndgel.com/products/shooting-star-411"
+  },
+  {
+    "name": "Flamingo Pink #413",
+    "brand": "DND",
+    "hex": "#ff3956",
+    "product_link": "https://www.dndgel.com/products/flamingo-pink-413"
+  },
+  {
+    "name": "Silver Star #442",
+    "brand": "DND",
+    "hex": "#999999",
+    "product_link": "https://www.dndgel.com/products/silver-star-442"
+  },
+  {
+    "name": "Violet's Secret #457",
+    "brand": "DND",
+    "hex": "#36003a",
+    "product_link": "https://www.dndgel.com/products/violets-secret-457"
+  },
+  {
+    "name": "Lush Lilac Star #405",
+    "brand": "DND",
+    "hex": "#381a4f",
+    "product_link": "https://www.dndgel.com/products/lush-lilac-star-405"
+  },
+  {
+    "name": "Havin Cabbler #419",
+    "brand": "DND",
+    "hex": "#ffc4b4",
+    "product_link": "https://www.dndgel.com/products/havin-cabbler-419"
+  }
+]
