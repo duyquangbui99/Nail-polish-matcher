@@ -1,21 +1,25 @@
+// services/imageService.js
 import * as ImagePicker from 'expo-image-picker';
 
 export async function pickImageFromLibrary() {
-    const permissionResult = await ImagePicker.requestMediaLibraryPermissionsAsync();
+    const perm = await ImagePicker.requestMediaLibraryPermissionsAsync();
+    if (!perm.granted) throw new Error('Permission to access camera roll is required!');
 
-    if (!permissionResult.granted) {
-        throw new Error("Permission to access camera roll is required!");
-    }
+    // Try the new enum first; gracefully fall back if running older SDKs.
+    const mediaType =
+        ImagePicker?.MediaType?.image ??
+        ImagePicker?.MediaType?.Images ??
+        ImagePicker?.MediaType?.Image ??
+        ImagePicker?.MediaTypeOptions?.Images; // legacy fallback
 
-    let result = await ImagePicker.launchImageLibraryAsync({
-        mediaTypes: ImagePicker.MediaTypeOptions.Images,
+    const result = await ImagePicker.launchImageLibraryAsync({
+        // You can also just delete `mediaTypes:` entirely to use the default (images).
+        ...(mediaType ? { mediaTypes: mediaType } : {}),
         allowsEditing: true,
         quality: 1,
+        selectionLimit: 1, // ignored on some platforms but harmless
     });
 
-    if (!result.canceled) {
-        return result.assets[0].uri;
-    }
-
+    if (!result.canceled) return result.assets?.[0]?.uri || null;
     return null;
 }
