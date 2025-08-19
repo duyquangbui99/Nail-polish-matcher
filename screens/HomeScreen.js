@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { SafeAreaView, Text, StyleSheet, FlatList, View, Image, Pressable } from 'react-native';
 import ImagePickerComponent from '../components/ImagePickerComponent';
 import { matchTopN } from '../services/matchingService';
-import db from '../assets/db/dnd_colors_401_500.json'; // adjust if your file name differs
+import db from '../assets/db/dnd-401-500.json'; // adjust if your file name differs
 
 export default function HomeScreen() {
     const [results, setResults] = useState([]);

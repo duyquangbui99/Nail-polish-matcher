@@ -17,7 +17,7 @@
         "#9a795b"
       ],
       "luma_contrast": 0.4672,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_401-6.jpg?v=1675841572",
@@ -45,7 +45,7 @@
         "#b82221"
       ],
       "luma_contrast": 0.5968,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_402-4.jpg?v=1675841566",
@@ -73,7 +73,7 @@
         "#e64ca9"
       ],
       "luma_contrast": 0.4306,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-403-DOT.png",
@@ -101,7 +101,7 @@
         "#d3ccdd"
       ],
       "luma_contrast": 0.1695,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-404-DOT.png",
@@ -129,7 +129,7 @@
         "#381a4f"
       ],
       "luma_contrast": 0.8377,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-405-DOT.png?v=1753822118",
@@ -157,7 +157,7 @@
         "#1d889b"
       ],
       "luma_contrast": 0.433,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-406-DOT_1.png",
@@ -185,7 +185,7 @@
         "#272b46"
       ],
       "luma_contrast": 0.8163,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-407-DOT.png",
@@ -213,7 +213,7 @@
         "#74383d"
       ],
       "luma_contrast": 0.6847,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-408-DOT.png",
@@ -241,7 +241,7 @@
         "#3f2339"
       ],
       "luma_contrast": 0.8184,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-409-DOT.png",
@@ -254,22 +254,24 @@
   {
     "name": "Ocean Night Star #410",
     "brand": "DND",
-    "hex": "#884141",
+    "hex": "#282c65",
     "product_link": "https://www.dndgel.com/products/ocean-night-star-410",
     "finish": "glitter",
     "lab": [
-      36.7367,
-      30.2871,
-      14.2736
+      20.796123181680706,
+      17.09212892237183,
+      -34.298062727490006
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.101,
       "size_mode": "mixed",
       "colors_hex": [
-        "#884141"
+        "#989fc7",
+        "#555abc",
+        "#dee0e7"
       ],
-      "luma_contrast": 0.6326,
-      "hue_shift": 0.0
+      "luma_contrast": 0.4153,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-410-SWATCH.png",
@@ -282,22 +284,24 @@
   {
     "name": "Shooting Star #411",
     "brand": "DND",
-    "hex": "#735961",
+    "hex": "#a489bf",
     "product_link": "https://www.dndgel.com/products/shooting-star-411",
     "finish": "glitter",
     "lab": [
-      40.6587,
-      12.0708,
-      -0.5005
+      61.26018424815781,
+      20.72296213436986,
+      -24.32667662858503
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.104,
       "size_mode": "mixed",
       "colors_hex": [
-        "#735961"
+        "#d9c0f2",
+        "#f1e3f9",
+        "#e3cef4"
       ],
-      "luma_contrast": 0.5934,
-      "hue_shift": 0.0
+      "luma_contrast": 0.2363,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-411-DOT.png?v=1753386077",
@@ -325,7 +329,7 @@
         "#9f3c08"
       ],
       "luma_contrast": 0.6107,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-412-DOT.png",
@@ -347,11 +351,11 @@
       31.8688
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-413-DOT.png?v=1753815862",
@@ -373,11 +377,11 @@
       36.6296
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-414-DOT.png?v=1753815799",
@@ -399,11 +403,11 @@
       -20.97
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-415-DOT.png",
@@ -416,20 +420,20 @@
   {
     "name": "Purple Pride #416",
     "brand": "DND",
-    "hex": "#4a2424",
+    "hex": "#be448b",
     "product_link": "https://www.dndgel.com/products/purple-pride-416",
     "finish": "cream",
     "lab": [
-      19.412,
-      17.9308,
-      8.1159
+      48.194835313388225,
+      55.84686258993682,
+      -13.747645971963273
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-416-SWATCH.png",
@@ -451,11 +455,11 @@
       -6.8714
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_417-5.jpg?v=1675841478",
@@ -468,20 +472,20 @@
   {
     "name": "Butternut Squash #418",
     "brand": "DND",
-    "hex": "#87554d",
+    "hex": "#a67a72",
     "product_link": "https://www.dndgel.com/products/butternut-squash-418",
     "finish": "cream",
     "lab": [
-      41.5066,
-      19.7805,
-      13.3237
+      55.32113805578582,
+      16.00078383489406,
+      11.112039535898809
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-418-DOT.png?v=1734371570",
@@ -503,11 +507,11 @@
       16.164
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-419-DOT.png?v=1738795296",
@@ -529,11 +533,11 @@
       -6.1293
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/dc_swatch_022-2.jpg?v=1675841459",
@@ -555,11 +559,11 @@
       -6.1848
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_421-5.jpg?v=1675841453",
@@ -581,11 +585,11 @@
       60.4545
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-422-DOT.png",
@@ -613,7 +617,7 @@
         "#c4bea3"
       ],
       "luma_contrast": 0.232,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_423-1.jpg?v=1675841441",
@@ -635,11 +639,11 @@
       92.1906
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_424-3.jpg?v=1675841434",
@@ -661,11 +665,11 @@
       67.0201
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_430-3.jpg?v=1675841424",
@@ -687,11 +691,11 @@
       53.3674
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-426-DOT_1.png?v=1738799828",
@@ -713,11 +717,11 @@
       -3.3474
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-427-DOT.png?v=1741124971",
@@ -739,11 +743,11 @@
       -17.8646
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_428-5.jpg?v=1675841398",
@@ -765,11 +769,11 @@
       29.3783
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-429-DOT.png?v=1728405952",
@@ -791,11 +795,11 @@
       50.1352
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_430-5.jpg?v=1675841381",
@@ -817,11 +821,11 @@
       33.8782
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/756_53073ee0-7077-402b-9b83-bbe5c0e999ec.jpg?v=1675841371",
@@ -843,11 +847,11 @@
       17.0215
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_432-5.jpg?v=1675841362",
@@ -869,11 +873,11 @@
       -48.0931
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_433-5_7098e817-7c23-4cee-97ed-de96f345f7ff.jpg?v=1675841355",
@@ -886,20 +890,20 @@
   {
     "name": "Gulf Stream #434",
     "brand": "DND",
-    "hex": "#557880",
+    "hex": "#0e85a1",
     "product_link": "https://www.dndgel.com/products/gulf-stream-434",
     "finish": "cream",
     "lab": [
-      48.1626,
-      -10.2659,
-      -8.3681
+      51.197656267920294,
+      -19.450312881148403,
+      -23.294822031321516
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-434-SWATCH.jpg",
@@ -912,20 +916,20 @@
   {
     "name": "Spring Leaf #435",
     "brand": "DND",
-    "hex": "#489420",
+    "hex": "#00cc00",
     "product_link": "https://www.dndgel.com/products/spring-leaf-435",
     "finish": "cream",
     "lab": [
-      54.7223,
-      -43.812,
-      50.182
+      71.67889603320064,
+      -72.84354998508424,
+      70.30501291230968
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-435-FS.png",
@@ -947,11 +951,11 @@
       -21.3627
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-436-DOT.png?v=1742843530",
@@ -973,11 +977,11 @@
       -48.0931
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_433-5.jpg?v=1675841327",
@@ -990,20 +994,20 @@
   {
     "name": "Island Oasis #438",
     "brand": "DND",
-    "hex": "#24463c",
+    "hex": "#05ac92",
     "product_link": "https://www.dndgel.com/products/island-oasis-438",
     "finish": "cream",
     "lab": [
-      26.9661,
-      -15.2351,
-      2.1788
+      63.01919838185006,
+      -43.20166082488414,
+      2.942349617282791
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-438-SWATCH.png",
@@ -1025,11 +1029,11 @@
       -19.2335
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_439-5.jpg",
@@ -1051,11 +1055,11 @@
       11.762
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_621-1_f2ca6fbd-dd65-4369-bdd3-e87ed8f444d1.jpg?v=1675841305",
@@ -1077,11 +1081,11 @@
       -1.8216
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_441-5.jpg?v=1675841298",
@@ -1109,7 +1113,7 @@
         "#999999"
       ],
       "luma_contrast": 0.3678,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_442-5.jpg?v=1675841290",
@@ -1137,7 +1141,7 @@
         "#e7eeec"
       ],
       "luma_contrast": 0.0647,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_443-5.jpg?v=1675841283",
@@ -1159,11 +1163,11 @@
       1.1017
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_444-5.jpg?v=1675841271",
@@ -1176,20 +1180,20 @@
   {
     "name": "Melting Violet #445",
     "brand": "DND",
-    "hex": "#8c666f",
+    "hex": "#ab8ba3",
     "product_link": "https://www.dndgel.com/products/melting-violet-445",
     "finish": "cream",
     "lab": [
-      47.2695,
-      16.7176,
-      0.972
+      61.4538125310405,
+      16.27733743378007,
+      -8.092891162994832
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-445-DOT.png?v=1738782150",
@@ -1211,11 +1215,11 @@
       10.367
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/DP54dot_6796785a-6118-42b3-a855-59b384344863.jpg?v=1675841259",
@@ -1237,11 +1241,11 @@
       -9.5928
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_447-5.jpg?v=1675841251",
@@ -1263,11 +1267,11 @@
       -0.0102
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_448-5_821f9c49-131c-449e-8052-df3ef8f05e65.jpg?v=1675841245",
@@ -1289,11 +1293,11 @@
       -3.7281
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/148_d37cd514-5b77-46c8-9c1d-3b8a96a29f46.jpg?v=1675841238",
@@ -1315,11 +1319,11 @@
       -27.3592
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-450-SWATCH.png",
@@ -1332,20 +1336,24 @@
   {
     "name": "Rock N Rose #451",
     "brand": "DND",
-    "hex": "#d6967a",
+    "hex": "#c38295",
     "product_link": "https://www.dndgel.com/products/rock-n-rose-451",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      67.6609,
-      20.686,
-      24.3911
+      61.42876072581571,
+      27.729797653694767,
+      0.14391389288299639
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#ede3e6",
+        "#fefefe",
+        "#ffffff"
+      ],
+      "luma_contrast": 0.2218,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-451-SWATCH.png",
@@ -1367,11 +1375,11 @@
       4.8368
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-452-SWATCH.png",
@@ -1399,7 +1407,7 @@
         "#5e4d5f"
       ],
       "luma_contrast": 0.6497,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_453-5.jpg?v=1675841211",
@@ -1421,11 +1429,11 @@
       8.8245
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_454-5.jpg",
@@ -1447,11 +1455,11 @@
       -16.8193
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_455-5.jpg?v=1675841199",
@@ -1473,11 +1481,11 @@
       4.5041
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_456-5.jpg?v=1675841191",
@@ -1499,11 +1507,11 @@
       -22.6556
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_457-6.jpg?v=1675841185",
@@ -1525,11 +1533,11 @@
       -21.3317
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_458-5.jpg?v=1675841178",
@@ -1551,11 +1559,11 @@
       -10.4717
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_459-5.jpg?v=1675841169",
@@ -1577,11 +1585,11 @@
       -8.7128
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-460-DOT.png?v=1739319951",
@@ -1594,20 +1602,24 @@
   {
     "name": "Pretty In Pink #461",
     "brand": "DND",
-    "hex": "#843417",
+    "hex": "#de3f55",
     "product_link": "https://www.dndgel.com/products/pretty-in-pink-461",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      32.7519,
-      32.7718,
-      34.3729
+      51.54806437521907,
+      62.189656905048516,
+      24.34884171651085
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.116,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#fa7b9e",
+        "#fa4d5b",
+        "#fbc1e5"
+      ],
+      "luma_contrast": 0.1167,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-461-SWATCH.png",
@@ -1620,20 +1632,24 @@
   {
     "name": "Dessert Spice #462",
     "brand": "DND",
-    "hex": "#7a5c3d",
+    "hex": "#722b0d",
     "product_link": "https://www.dndgel.com/products/dessert-spice-462",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      41.4201,
-      8.0876,
-      22.5273
+      27.669495216456674,
+      29.761553314895327,
+      33.46825243437587
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#d4977f",
+        "#ebd3ca",
+        "#c16b43"
+      ],
+      "luma_contrast": 0.3742,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_462-5.jpg",
@@ -1646,20 +1662,24 @@
   {
     "name": "Hot Jazz #463",
     "brand": "DND",
-    "hex": "#ae7c66",
+    "hex": "#440206",
     "product_link": "https://www.dndgel.com/products/hot-jazz-463",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      56.4596,
-      16.6073,
-      19.7244
+      11.176672120594773,
+      30.333116408038872,
+      15.092639815995984
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.102,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#d81a2b",
+        "#ee1e2a",
+        "#d6101e"
+      ],
+      "luma_contrast": 0.5733,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-463-SWATCH.png",
@@ -1672,20 +1692,24 @@
   {
     "name": "Fairy Wings #464",
     "brand": "DND",
-    "hex": "#bab8bd",
+    "hex": "#919090",
     "product_link": "https://www.dndgel.com/products/fairy-wings-464",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      75.0729,
-      1.6382,
-      -2.2881
+      59.87058429704649,
+      0.366354141977554,
+      0.1293648839731265
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#efefee",
+        "#f7f6f6",
+        "#e8e8e8"
+      ],
+      "luma_contrast": 0.38,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/464-1.jpg",
@@ -1707,11 +1731,11 @@
       23.5998
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_465-5.jpg",
@@ -1733,11 +1757,11 @@
       -14.9665
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_466-5.jpg",
@@ -1750,22 +1774,24 @@
   {
     "name": "Legendary Diamond #467",
     "brand": "DND",
-    "hex": "#757592",
+    "hex": "#7c6a59",
     "product_link": "https://www.dndgel.com/products/legendary-diamond-467",
     "finish": "glitter",
     "lab": [
-      50.1919,
-      6.4562,
-      -15.7062
+      46.06258848647311,
+      4.299189088334543,
+      12.189885858152783
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.101,
       "size_mode": "mixed",
       "colors_hex": [
-        "#757592"
+        "#b49e7f",
+        "#c2b7ad",
+        "#e6e2dd"
       ],
-      "luma_contrast": 0.4981,
-      "hue_shift": 0.0
+      "luma_contrast": 0.3118,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-467-SWATCH.png",
@@ -1778,20 +1804,24 @@
   {
     "name": "Northern Sky #468",
     "brand": "DND",
-    "hex": "#3a5a87",
+    "hex": "#284d7f",
     "product_link": "https://www.dndgel.com/products/northern-sky-468",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      37.7726,
-      2.4746,
-      -28.6515
+      32.45917564070755,
+      4.224328702913255,
+      -32.17528340930899
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#85c1ec",
+        "#d7dbed",
+        "#37a8ea"
+      ],
+      "luma_contrast": 0.4258,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_468-5.jpg",
@@ -1804,20 +1834,24 @@
   {
     "name": "Vast Galaxy #469",
     "brand": "DND",
-    "hex": "#939493",
+    "hex": "#7f8091",
     "product_link": "https://www.dndgel.com/products/vast-galaxy-469",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      61.2112,
-      -0.5544,
-      0.3924
+      54.02117935808114,
+      3.219680344024589,
+      -9.257822450503772
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.1,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#c7c5cf",
+        "#a9b2c2",
+        "#c7b0b3"
+      ],
+      "luma_contrast": 0.2254,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_469-5.jpg",
@@ -1830,20 +1864,24 @@
   {
     "name": "Love Letter #470",
     "brand": "DND",
-    "hex": "#7a2656",
+    "hex": "#781a4e",
     "product_link": "https://www.dndgel.com/products/love-letter-470",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      29.9009,
-      41.2915,
-      -9.4162
+      27.526404857192524,
+      44.3526646246184,
+      -7.754718197355981
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.102,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#eb5fbb",
+        "#eb23c5",
+        "#eca0be"
+      ],
+      "luma_contrast": 0.4474,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_470-5.jpg",
@@ -1856,22 +1894,24 @@
   {
     "name": "Emerald Stone #471",
     "brand": "DND",
-    "hex": "#245a65",
+    "hex": "#2d6676",
     "product_link": "https://www.dndgel.com/products/emerald-stone-471",
     "finish": "glitter",
     "lab": [
-      35.256,
-      -14.0502,
-      -11.6567
+      40.19306203743829,
+      -13.454785278786657,
+      -14.583655892548464
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.104,
       "size_mode": "mixed",
       "colors_hex": [
-        "#245a65"
+        "#8ddce6",
+        "#d7e1e8",
+        "#39d5e1"
       ],
-      "luma_contrast": 0.6474,
-      "hue_shift": 0.0
+      "luma_contrast": 0.4329,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_471-5.jpg?v=1675841088",
@@ -1884,20 +1924,24 @@
   {
     "name": "Forgotten Pink #472",
     "brand": "DND",
-    "hex": "#8c546c",
+    "hex": "#935775",
     "product_link": "https://www.dndgel.com/products/forgotten-pink-472",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      42.7614,
-      26.7209,
-      -3.8222
+      44.66722024908539,
+      29.06106928697072,
+      -6.383319589538283
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#f5e5ec",
+        "#ecc8d9",
+        "#eaa3c1"
+      ],
+      "luma_contrast": 0.3658,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_472-5.jpg",
@@ -1919,11 +1963,11 @@
       -0.0102
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_473-1.jpg?v=1675841082",
@@ -1945,11 +1989,11 @@
       52.0907
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_474-1.jpg?v=1675841074",
@@ -1971,11 +2015,11 @@
       31.3188
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_475-1.jpg",
@@ -1988,20 +2032,24 @@
   {
     "name": "Gold In Red #476",
     "brand": "DND",
-    "hex": "#a91818",
+    "hex": "#ad2231",
     "product_link": "https://www.dndgel.com/products/gold-in-red-476",
-    "finish": "cream",
+    "finish": "shimmer",
     "lab": [
-      36.2796,
-      55.5595,
-      39.7338
+      38.292611749663685,
+      55.02464490313491,
+      27.5833309541636
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.105,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#c93842",
+        "#d24950",
+        "#e56a6b"
+      ],
+      "luma_contrast": 0.1303,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_476-1.jpg",
@@ -2014,22 +2062,24 @@
   {
     "name": "Red Stone #477",
     "brand": "DND",
-    "hex": "#650828",
+    "hex": "#400617",
     "product_link": "https://www.dndgel.com/products/red-stone-477",
-    "finish": "glitter",
+    "finish": "shimmer",
     "lab": [
-      20.4148,
-      40.3026,
-      7.5219
+      11.152141595964668,
+      28.30318323704435,
+      5.853223314411821
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.105,
       "size_mode": "mixed",
       "colors_hex": [
-        "#650828"
+        "#a98b99",
+        "#790935",
+        "#951c4d"
       ],
-      "luma_contrast": 0.7959,
-      "hue_shift": 0.0
+      "luma_contrast": 0.2637,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_477-1.jpg?v=1675841056",
@@ -2051,11 +2101,11 @@
       8.7446
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_478-1.jpg?v=1675841050",
@@ -2068,22 +2118,24 @@
   {
     "name": "Queen of Grape #479",
     "brand": "DND",
-    "hex": "#2a011a",
+    "hex": "#3d132e",
     "product_link": "https://www.dndgel.com/products/queen-of-grapes-479",
     "finish": "glitter",
     "lab": [
-      5.3161,
-      22.9779,
-      -5.5484
+      13.563367789448293,
+      24.196308190860215,
+      -7.808845570234812
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.106,
       "size_mode": "mixed",
       "colors_hex": [
-        "#2a011a"
+        "#722258",
+        "#843369",
+        "#661b4c"
       ],
-      "luma_contrast": 0.9468,
-      "hue_shift": 0.0
+      "luma_contrast": 0.1803,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_702-1_2c34524e-6877-4ec4-8b8f-759f683548c8.jpg?v=1675841042",
@@ -2096,22 +2148,24 @@
   {
     "name": "Magic Night #480",
     "brand": "DND",
-    "hex": "#55474d",
+    "hex": "#0d0b1a",
     "product_link": "https://www.dndgel.com/products/magic-night-480",
-    "finish": "glitter",
+    "finish": "shimmer",
     "lab": [
-      31.7467,
-      7.1095,
-      -1.3767
+      3.6084579022852807,
+      3.783532470326617,
+      -8.481206155699377
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.106,
       "size_mode": "mixed",
       "colors_hex": [
-        "#827476"
+        "#071e58",
+        "#203974",
+        "#0c2968"
       ],
-      "luma_contrast": 0.433,
-      "hue_shift": 0.0
+      "luma_contrast": 0.2427,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-480-SWATCH_1.png",
@@ -2124,20 +2178,24 @@
   {
     "name": "Burst Of Gold #481",
     "brand": "DND",
-    "hex": "#f0984e",
+    "hex": "#88482d",
     "product_link": "https://www.dndgel.com/products/burst-of-gold-481",
-    "finish": "cream",
+    "finish": "glitter",
     "lab": [
-      70.5469,
-      26.6088,
-      51.5876
+      37.94963415513295,
+      24.71281189988847,
+      27.991282343221247
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.101,
+      "size_mode": "mixed",
+      "colors_hex": [
+        "#dc9971",
+        "#eab691",
+        "#e0d6d8"
+      ],
+      "luma_contrast": 0.3341,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_481-1.jpg",
@@ -2165,7 +2223,7 @@
         "#e7628e"
       ],
       "luma_contrast": 0.404,
-      "hue_shift": 0.0
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_482-1.jpg?v=1675841015",
@@ -2178,22 +2236,24 @@
   {
     "name": "Pink Angel #483",
     "brand": "DND",
-    "hex": "#f1bbd0",
+    "hex": "#c94661",
     "product_link": "https://www.dndgel.com/products/pink-angel-483",
     "finish": "glitter",
     "lab": [
-      81.1791,
-      22.6125,
-      -3.0468
+      49.08670014830339,
+      53.87083752108457,
+      13.18620424072019
     ],
     "glitter": {
-      "density": 0.8,
+      "density": 0.1,
       "size_mode": "mixed",
       "colors_hex": [
-        "#f1bbd0"
+        "#e76386",
+        "#eb8fac",
+        "#e87598"
       ],
-      "luma_contrast": 0.1882,
-      "hue_shift": 0.0
+      "luma_contrast": 0.1571,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_483-1.jpg?v=1675841009",
@@ -2206,20 +2266,24 @@
   {
     "name": "Sun Of Pink #484",
     "brand": "DND",
-    "hex": "#e4e4e2",
+    "hex": "#e84e98",
     "product_link": "https://www.dndgel.com/products/sun-of-pink-484",
     "finish": "cream",
     "lab": [
-      90.5383,
-      -0.3512,
-      0.9636
+      56.95471101869953,
+      65.38712554438631,
+      -7.611407806200066
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.138,
+      "size_mode": "chunky",
+      "colors_hex": [
+        "#f04e9a",
+        "#ef4090",
+        "#f24a98"
+      ],
+      "luma_contrast": 0.0297,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-484-SWATCH.png",
@@ -2232,20 +2296,24 @@
   {
     "name": "First Impression #485",
     "brand": "DND",
-    "hex": "#752b25",
+    "hex": "#e5b9d6",
     "product_link": "https://www.dndgel.com/products/first-impression-485",
     "finish": "cream",
     "lab": [
-      28.4939,
-      32.1087,
-      20.7173
+      79.7347134791144,
+      20.512373600188873,
+      -8.534944286987734
     ],
     "glitter": {
-      "density": 0.0,
-      "size_mode": "none",
-      "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "density": 0.978,
+      "size_mode": "chunky",
+      "colors_hex": [
+        "#e6b8d6",
+        "#e6bad6",
+        "#e6b8d6"
+      ],
+      "luma_contrast": 0.0041,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-485-SWATCH.png",
@@ -2267,11 +2335,11 @@
       -6.6645
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_486-1.jpg",
@@ -2284,20 +2352,20 @@
   {
     "name": "Fairy Dream #487",
     "brand": "DND",
-    "hex": "#774b24",
+    "hex": "#f8d1c1",
     "product_link": "https://www.dndgel.com/products/fairy-dream-487",
     "finish": "cream",
     "lab": [
-      36.1407,
-      14.7281,
-      30.3656
+      86.70672690837742,
+      11.265602288974886,
+      13.028345742914427
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-487-SWATCH.png",
@@ -2319,11 +2387,11 @@
       10.5243
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/season-beige-488-1-copy.jpg?v=1675840973",
@@ -2345,11 +2413,11 @@
       -6.7377
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_489-1.jpg?v=1675840964",
@@ -2371,11 +2439,11 @@
       21.5998
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/dnd-490.jpg?v=1675840957",
@@ -2397,11 +2465,11 @@
       -13.8935
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/DP06dot_dbe1bf61-6ecd-47c8-ba02-364a51fc86a0.jpg",
@@ -2423,11 +2491,11 @@
       -32.5698
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/DP48dot_0ea8844b-d58b-4b16-85ed-54b3c0a52fc0.jpg",
@@ -2449,11 +2517,11 @@
       -24.5499
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_493-1_e2f95167-d848-4848-882d-a2c5376cf3f9.jpg",
@@ -2475,11 +2543,11 @@
       -23.9889
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/DND-Magical-Mauve-Dot-494.jpg",
@@ -2501,11 +2569,11 @@
       -4.2461
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/products/duo_swatch_496-1.jpg?v=1675840915",
@@ -2527,11 +2595,11 @@
       -5.4279
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-497-DOT.png?v=1742845537",
@@ -2553,11 +2621,11 @@
       -8.3094
     ],
     "glitter": {
-      "density": 0.0,
+      "density": 0,
       "size_mode": "none",
       "colors_hex": [],
-      "luma_contrast": 0.0,
-      "hue_shift": 0.0
+      "luma_contrast": 0,
+      "hue_shift": 0
     },
     "images": {
       "thumbnail": "https://cdn.shopify.com/s/files/1/0695/1583/7721/files/DND-499-DOT.png?v=1738780723",
