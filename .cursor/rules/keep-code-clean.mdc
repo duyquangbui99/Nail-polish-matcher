@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+As an intern, I want to maintain a clean and readable codebase. Please follow these rules when generating code:
+
+Do not refactor or rewrite existing code unless absolutely necessary.
+
+Only add what is required to make the feature or fix work.
+
+Keep solutions simple, efficient, and beginner-friendly — no overengineering.
+
+Avoid introducing new libraries or patterns unless I ask for them.
+
+Follow the current code style and structure.
+
+If you're unsure, ask before making large changes.

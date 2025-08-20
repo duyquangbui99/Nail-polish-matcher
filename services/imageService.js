@@ -23,3 +23,24 @@ export async function pickImageFromLibrary() {
     if (!result.canceled) return result.assets?.[0]?.uri || null;
     return null;
 }
+
+export async function handleTakePhoto() {
+    const permissionResult = await ImagePicker.requestCameraPermissionsAsync();
+
+    if (permissionResult.granted === false) {
+        throw new Error('Permission to access camera is required!');
+    }
+
+    const result = await ImagePicker.launchCameraAsync({
+        mediaTypes: ImagePicker.MediaTypeOptions.Images,
+        allowsEditing: true,
+        aspect: [1, 1],
+        quality: 0.8,
+    });
+
+    if (!result.canceled && result.assets && result.assets[0]) {
+        return result.assets[0].uri;
+    }
+
+    return null;
+}
